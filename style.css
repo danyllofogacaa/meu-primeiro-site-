@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(247, 93, 239);
+    color:black
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aliceblue;
+    font-size: 5rem;
+    text-align: center;
+}
